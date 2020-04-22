@@ -28,29 +28,48 @@ ganic whole, out of the stakes marked on the ground.
 > 而这一过程仅仅始于用木桩在大地上作出标记.
 
 
->   Now we shall see how several acts of building, in
+> Now we shall see how several acts of building, in
 a r0w, will generale an even more coherent and more .
 complex whole, piecemeal- -by making sure that every
 acl conlribuies to lhe order of lhe previous acts.
 
+> 现在我们可以观察到, 一组连续的建造行为, 
+> 是如何通过每次只改善一点点之前的行为,
+> 就能逐渐生成一个更加复杂, 流畅的整体.
 
 In theory, according to chapter 18, every act of building
 is, with respect to its larger context, an act of repair: a part
 of the much larger process in which several acts together
 generate the larger wholes from which a building complex
 or a town iS made.
+
+根据第18章的理论, 
+所有建造行为, 从宏观上都是一种修缮行为:
+都是更大更复杂的建筑群或城市营造过程的一部分.
+
 But so far we have not had an opportunity to see this
 clearly- -because in chapters 19-23, we have been paying
 attention to the individual creative act as an act which .
 makes something new.
+
+但至今我们还没机会关注这一点
+---因为从第19章~第20章,我们一直在关注构造新事物的单一建造行为上.
+
 Now we shall change the focus, and pay attention to ;
 each act, as an act of repair, within the larger whole.
 
+现在我们改变焦点, 从更大整体来关注每一次修缮行为.
 
     No building is ever perfect.
+    没有建筑是永恒完美的
+
 
 Each building, when it is first built, is an attempt to make
 a self-maintaining whole con figuration. .
+
+
+
+
 But our predictions are invariably wrong. People use
 buildings differently from the way they thought they
 would. And the larger the pieces become, the more serious
