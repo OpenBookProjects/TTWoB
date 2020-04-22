@@ -68,7 +68,7 @@ Each building, when it is first built, is an attempt to make
 a self-maintaining whole configuration. .
 
 每座建筑, 建造之初,
-目标都是一个能自我维护的整体.
+目标都是一个能自我维护的配置整体.
 
 
 But our predictions are invariably wrong. People use
@@ -92,7 +92,9 @@ events which will emerge in the real building, and to
 create a configuration which is in repose with respect to
 these events.
 
-
+设计过程, 在内心或工地上,
+企图事先模拟出目标建筑中应有的事件和感受,
+然后对应创造出对应的配置形态.
 
 
 But the prediction is all guesswork; the real events
