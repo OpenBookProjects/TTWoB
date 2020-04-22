@@ -102,26 +102,50 @@ which happen there are always at least slightly diferent;
 and the larger the building is, the more likely the guesses
 are to be inaccurate.
 
+但是, 预测毕竟都是猜测;
+在真实建筑中最终发生的事件多少会有不同;
+而且建筑越大, 预测的偏差也越大.
+
+
 > Ii is therefore necessary to keep changing the brwild-
 ings, according to the real events which acmvally hap-
 pen there.
+
+> 因此, 有必要保持建筑持续变化,
+> 以能影响真实事件的发生.
 
 And the larger the complex of buildings, neighborhood, or
 town, the more essential it is for it to be built up gradually,
 from thousands of acts, self-correcting acts, each one im-
 proving and repairing the acts of the others.
 
+建筑物,邻里或城镇越大, 
+逐步建造也就越重要, 
+因为成千上万种行为, 都是自我纠正的行为, 每一个都在检验其它行为并在进一步修缮.
+
 > Suppose, for instance, lhat some corner of your house
 is nol as alive as you would like.
+
+> 比如, 假设, 住房的一角并不象你设想的那股有生气
 
 For example, suppose I look at the house, and realize that its garden iS not working properly as a HALF-HIDDEN
 GARDEN, because although it is to one side of the house,
 there is not enough protection between the garden and
 the street. It needs some kind of wall.
+
+例如, 我观察住房, 发现花园并不能达成 `半隐蔽` 效果,
+因为尽管设置在住房一侧, 但在花园和街道间, 并没形成足够的防护.
+那么就得追加墙什么的.
+
 And, suppose that I go further, and bearing in mind
 that work needs to be done to mend the barrier between
 the garden and the street, I examine the garden from the
 point of view of PRIVATE TERRACE ON THE STREET, and
+
+
+接着, 假定再离远点观察, 并记住要追加花圈和街道间屏障的事儿,
+我用 `沿街私人露台` 观点检查, 发现花园忽略了这点.
+
 
 48o
 -----------------------------------------
@@ -129,23 +153,43 @@ point of view of PRIVATE TERRACE ON THE STREET, and
 find it missing. Suppose that I decide I need to build a
 small brick terrace, at one side of my liouse, where it
 touches the garden, in order to repair this gap.
+
+假设我决定要在住房一侧建造一个小小的平台,
+和花圈相接, 以便弥补这个漏洞.
+
 Now, if I have already decided that some kind of wall
 needs to be built to protect the garden where it is too
 open, it is only natural that I shall try to make the miss-
 ing terrace in some way to link it to this missing wall.
+
+现在, 如果已测定要建造某种墙来保护过于开放的花园, 
+那么很自然, 我必须用某种方式将这一忽略的平台和同样忽略的墙联系起来.
+
 In short, when I get a chance to start mending the
 garden, I can mend both these defective patterns with the
 same act of building. And the repairs I make are not just
 “repairs,”but new designs, complex themselves, between
 the crevices of the first design.
 
+总之, 当我有机会修缮花园时, 
+就可以用同一建造行为, 来同时完成两个缺陷的改进.
+我作的并不仅仅是 "修补", 而是全新设计,
+弥合前一次设计的裂缝.
+
 > Or suppose that you have brill a small laboratory
 bsuilding.
+
+> 或者假定你已经建造了一座小实验楼
 
 
 It has a kitchen, a library, four labs, and a main entrance.
 You want to add a fth laboratory to it, because you need
 more space.
+
+她有一个厨房, 一个图书馆, 4个实验室和一个正门.
+现在想为其追加第5个实验室, 
+因为你需要更多空间.
+
 Don't look for the best place right away. First, look at
 the existing building, and see what is wrong with it. There
 is a path where tin cans collect; a tree which is a beautiful
@@ -154,9 +198,23 @@ always empty, there is nothing obviously wrong with it,
 but somehow no one goes there; the main entrance has
 no places to sit comfortably; the earth around one corner
 of the building is being eroded.
+
+不用去寻找更好的地方.
+首先, 打量一下现有建筑物, 看看有什么问题.
+那是收集锡罐的小路; 一棵美丽但无人关注的树.
+四个实验室之一, 总是空着, 虽然没有任何问题,
+但就是没人去那里.
+正门没有能舒服安坐的地方.
+小楼一角土地正被风化.
+
+
 Now, look at all these things which are wrong, and
 build the fifth lab in such a way that it takes care of all
 these problems, and also does, for itself, what it has to do.
+
+现在, 回顾所有这些有问题的东西,
+建造第5实验室, 以一种能同时解决所有问题的态度来尝试.
+
 
 481
 -----------------------------------------
@@ -165,28 +223,58 @@ these problems, and also does, for itself, what it has to do.
 > Can you see how rich and various the parts of the
 bilding zwill be, when they are built like this?
 
+> 如此, 你将看到建筑各部分是多么富有可能性
 
-The ffth lab will be unique, unlike any of the other labs.
+The fifth lab will be unique, unlike any of the other labs.
+
+第5实验室将是独一无二的, 不象其它任何实验室.
+
 But not because you try hard to make it subtle, or beauti-
 ful, or arty. It comes about in the most obvious way, just
 because you are trying to be practical. Can you imagine
 how hard it is to make one little laboratory, about 20 feet
 by 20 feet, repair all these different problems at once?
+
+但这不是因为你努力使其变得奇妙或富丽堂皇.
+她以如此明显的方式实现, 正是因为你尝试令其实用化.
+你能想象通过建造一个 20乘20 英尺的小实验室,
+同时修缮对所有问题有多困难嘛?
+
+
 It isn't impossible; but to do it you will have to stretch
 it here, extend it there, give it a special window here to
 make the tree more useful, bring the path around it here,
 to make the path with the tin cans less deserted, give it a
 door at just this spot, to help create 2 pleasant corner in
 the entrance, where people can wait.
+
+这不是不可能的.
+但想作到这点, 你就得在这儿缩减在那儿扩展, 
+挖出一个特殊窗使树更有用,
+让小径绕开, 将锡罐引向更偏远的角落,
+在原处再开一处角门, 可以搭建两个宜人的角落,
+以便人们可以休息等候.
+
 So the richness and uniqueness of this little addition
 comes about in the simplest and most practical way pos-
 sible. It happens almost by itself, just because you pay
 attention to the defects in the present building, and try
 hard to repair them.
+
+这些小小的独特补充, 都以最简单最实用的方式达成.
+他们几乎都是独立发生的, 
+只是因为你开始关注到当前建筑物的缺陷, 并尝试彻底修缮.
+
+
+
 > Each act of bvilding, wohrich differeniates a part of
 space, needs to be followed soon by further acts of
 building, zwhich further differentiate the space to make
 it still more wohole.
+
+> 每次建造行为, 分化了一部分空间,
+> 接着又需要进一步建造行为, 进一步分化空间, 
+> 同时又使整体更加完善.
 
 
 This is commonplace in nature: and indeed, it is just this
