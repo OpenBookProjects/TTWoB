@@ -15,11 +15,18 @@ any single act can generate.
 
 
 > We know now, how a single act of building works.
-We know that any person can lay out a building for
+We know that any person can layout a building for
 himself; that any group of people can do the same;
 and we know h0w the builders can then carry Oul a .
 process of conslruction, which will mmake a unified or-
 ganic whole, out of the stakes marked on the ground.
+
+> 我们已知道,  建造的单一行为是如何生效的.
+> 我们知道, 任何人都可以为自己设计建筑;
+> 任何一组人也可以;
+> 而且我们知道建筑是如何在建造过程中形成有机整体的,
+> 而这一过程仅仅始于用木桩在大地上作出标记.
+
 
 >   Now we shall see how several acts of building, in
 a r0w, will generale an even more coherent and more .
