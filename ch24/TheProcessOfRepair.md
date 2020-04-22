@@ -1,12 +1,17 @@
 # CHAPTER 24
-## THE PROCESS OF REP AIR
-
+## THE PROCESS OF REPAIR
+修缮的历程
 
 Next, several acts of building, each one
 done to repair and magnify the product
 of the previous acts, will slowly generate
 a larger and more complex whole than
 any single act can generate.
+
+有些建造行为,
+是用来修缮和改进之前行为结果的,
+然后, 将慢慢形成更加复杂和庞大的整体,
+这是任何一次单一建造行为所无法造就的.
 
 
 > We know now, how a single act of building works.
