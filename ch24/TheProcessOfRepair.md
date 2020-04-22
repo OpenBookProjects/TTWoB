@@ -65,23 +65,36 @@ each act, as an act of repair, within the larger whole.
 
 
 Each building, when it is first built, is an attempt to make
-a self-maintaining whole con figuration. .
+a self-maintaining whole configuration. .
 
-
+每座建筑, 建造之初,
+目标都是一个能自我维护的整体.
 
 
 But our predictions are invariably wrong. People use
 buildings differently from the way they thought they
 would. And the larger the pieces become, the more serious
 
+可惜人们的期望总是有偏差.
+人们使用建筑的方式总是和原先设想的不一致.
+而且涉及的组件越大, 越明显.
+(the pieces?)
+
+
 
 ### THE WAY
+无名之道
+
 
 The process of design, in the mind's eye, or on the site,
 is an attempt to simulate in advance， the feeling and
 events which will emerge in the real building, and to
 create a configuration which is in repose with respect to
 these events.
+
+
+
+
 But the prediction is all guesswork; the real events
 which happen there are always at least slightly diferent;
 and the larger the building is, the more likely the guesses
