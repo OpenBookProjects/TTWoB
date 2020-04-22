@@ -280,8 +280,14 @@ it still more wohole.
 This is commonplace in nature: and indeed, it is just this
 which always manages to make the parts of nature whole.
 
+这在自然界中非常平淡无奇:
+实际上, 正是这种行为使部分合成完整的自然.
+
+
 Consider the leaves on a tree. At frst sight it seems as
 though the leaves are solid, and the air between the leaves
+
+
 
 482
 -----------------------------------------
