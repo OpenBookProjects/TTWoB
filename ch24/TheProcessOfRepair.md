@@ -493,11 +493,16 @@ it, sets it on the road to becoming something else, entirely
 new.
 
 
-
+这一观点假设通过持续关注存在的缺陷, 并尝试修缮, 即可形成全新的整体.
+并总是认定: 每一次修缮都将令旧的宏大整体得以改变, 以及转变, 
+成为全新的整体.
 
 > In lhis framework, we gain an enirely new view of
 the process through which a sequence of acts of build-
 ing generales a whole.
+
+> 在此框架, 我们对于一系列建造行为产生新整体的过程,
+> 有了全新认知.
 
 Broadly, what is happening is that there is, at each stage
 in the life of any part of the environment， a w holeness
@@ -506,6 +511,11 @@ new act of building, provided that it is done with an eye
 to making the overall whole still more whole, more alive,
 will transform that whole, and gradually give birth to
 new wholes.
+
+大致来说, 在任何生活场景中, 每一阶段都有一个匹配那个生活时刻的整体:
+每个新的建造行为, 如果着眼点在使当下整体更为完备, 更加有生气,
+那么, 整体也必将逐渐转变为全新的整体.
+
 
 In this sense, then, the idea of repair explains both how
 we can mend past defects in things, and also, at the same
@@ -517,8 +527,17 @@ under the process of repair, to even newer wholes, which
 once again remake themselves at the next stage of the
 repair.
 
+
+在这个意义上, 修缮概念也就解释到我们如何修补过去的缺陷, 
+同时也就可能创造和重新构造世界, 以及每一历史时期顺序发生的修缮行为也都
+ 成功改造出更完备生动的整体 --- 这一整体, 又在修缮过程中,
+ 总是被下一次修缮阶段性形成的新整体所替代.
+
 > In order I0 see this clearly, let us imagine that there
 is somewhere a building complex, grorwing, over lime.
+
+> 为了理解起见, 我们想象在某个羌族有个随着时间不断增长的建筑群.
+
 
 
 Step by step, each act of building, w hich contributes to the
@@ -531,6 +550,8 @@ already there.
 
 Specifically, let us imagine a cluster of houses growing
 over time.
+
+
 
 > Each house starts with a small beginning- no more
 than a family kitchen, with a bed alcove of one end,
