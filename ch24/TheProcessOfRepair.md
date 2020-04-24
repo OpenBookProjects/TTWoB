@@ -536,13 +536,18 @@ repair.
 > In order I0 see this clearly, let us imagine that there
 is somewhere a building complex, grorwing, over lime.
 
-> 为了理解起见, 我们想象在某个羌族有个随着时间不断增长的建筑群.
+> 为了理解起见, 我们想象在某个地方有个随着时间不断增长的建筑群.
 
 
 
 Step by step, each act of building, w hich contributes to the
 growing whole, is also helping to repair or heal what is
 already there.
+
+
+一次接一次, 每次建造行为, 都有助整体成长,
+又同时修缮了原有问题.
+
 
 486
 -----------------------------------------
@@ -551,35 +556,63 @@ already there.
 Specifically, let us imagine a cluster of houses growing
 over time.
 
+具体来说, 让我们想象随着时间推移一组房屋的成长.
 
 
 > Each house starts with a small beginning- no more
 than a family kitchen, with a bed alcove of one end,
 and a kitchen counter.
 
+
+> 每所子都从很小开始 --- 仅仅厨房和另一端放采的凹室
+
 AIl in all, no more than 300-500 square feet to start with. .
+
+统共, 不过 300~500 平方英尺.
 
 > Then, for the first few years, people add 100-200
 square feet more each year.
+
+> 接着, 每几年, 人们开始追加 100~200 平方英尺
 
 First a bedroom perhaps; another bedroom; a workshop ;
 a garden terrace; a full bathing room; arcades and
 porches; studio; a bigger sitting room, with a big fire-
 place; a garden shed.
 
+开始多半是卧室;
+又一间卧室; 工作间; 花园露台;
+完整的浴室; 拱廊和外廊; 工作室, 带有壁炉的大起居室;
+花园凉棚.
+
+
 And, at the same time common things are also built;
 they plant an avenue of trees; a small gazebo; a shared
 outdoor room; paving on the paths; closed-in garages; a
 communal workshop; a small fountain or a swimming
 
+同时, 也建造了配套设施;
+护道树植; 小凉亭;
+共享室外屋; 铺设路面; 封闭车库;
+公共车间; 小喷泉或游泳池...
+
 > As the buildings reach maurily, the incremens get
 smaller.
+
+> 建筑物越成熟, 追加物事就越小
+
 
 A bench; a sitting wall; a roof over the entrance; a rail-
 ing on the terrace upstairs; a stair to the roof; a fishpond;
 a baywindow; an extra gate; a vegetable patch; a wall of
 shelves; a garden seat around the trunk of a growing
 tree....
+
+![sitting wall](http://ydlj.zoomquiet.top/ipic/2020-04-24-ScreenShot%202020-04-24%2011.53.18.jpg)
+
+长椅; 墙凳; 门檐; 露台栏杆; 通向屋顶的楼梯;
+养鱼池; 凸窗; 正门拓展; 菜地;
+壁架; 大树周围的花园坐墩...
 
 
 487
@@ -589,19 +622,38 @@ tree....
 to generate the larger patterns which define the
 cluster.
 
+> 同时, 所有住宅又共同组成更大的模式.
+
+
 Each person begins to work with his neighbor, first the
 neighbor on one side, then the neighbor on the other side;
 and together they try to make the space between their
 houses beautiful. Of course, they start by eliminating obvi-
 ous coniicts between windows, or cases where one house
 takes the sun from the next man's garden; but they also
-work out details according to the detailed patterns. For
-example, one group of people decide to make their en-
+work out details according to the detailed patterns. 
+
+每个人都开始和邻居一起工作,
+先是一侧的, 然后是另一侧的邻居, 一起尝试美化房屋间的空间.
+当然, 是从排除窗与窗显而易见的矛盾开始, 
+或从解除有碍一侧住宅获得阳光的花园开始;
+同时, 人们也根据具体模式来设计细节.
+
+
+For example, one group of people decide to make their en-
 trances open off a small public garden, with a tree, and
 with an outdoor seat in it, facing the sun, and from which
 people can watch the distant outdoor room, according to
 the patterns TREE PLACES, OUTDOOR SEATS, and PUBLIC
 OUTDOOR ROOM.
+
+比如, 其中一组运用模式: 
+**树荫空间**,
+**室外坐椅**,
+以及**户外亭榭**,
+将他们的入口变成一个小公共花园,
+加入一棵树, 面向阳光一侧追加室外坐椅,
+这样人们能在户外辽望了.
 
 For example, path shape says that a path must be a
 place, almost like a room, partly enclosed, with a middle,
@@ -610,6 +662,13 @@ walking through. Each group uses this pattern to make
 the paths outside their houses better shaped, with seats in
 them; and the pattern even affects the exact shape of the
 boundary wall where the houses meet the paths.
+
+又如, 小径形式需要象屋内空间, 部分闭合, 包含中心,
+以便人们可以舒服的呆着, 而不是快速通过.
+各组住户使用这个模式, 将他们门前小路修缮的更好,
+而且都配有坐椅.
+同时, 这一模式应用又影响到房屋和道路中界墙的具体形式.
+
 
 And PRIVATE TERRACE on THE STREET says that each
 house should have a private terrace, near its living room,
@@ -626,13 +685,31 @@ turbed. Each of the houses has such a terrace, and the
 way these terraces make the paths alive is also discussed
 and modified by the groups at each end of the cluster.
 
+
+而 **沿街私家露台** 模式, 要求每个住宅应该有私人平台,
+靠近起居室, 又能到到街上公开空间,
+能和外面的人招手问好, 同时住宅的秘密性不至干挠.
+每所住宅都了露台, 通向露台的小径, 
+又如何使所有住宅生活起来,
+就得组团的各住户一起讨论/修缮.
+
+
+
 > Slowly, at every level, the arran gement of wholes
 becomes so dense that there are no gaps between the
 wholes: every parl, and every parl between tw0o parts,
 is whole.
 
+> 慢慢的, 整体每一个层面都能安排严密, 以至整体之间没有缝隙:
+> 每个部分,以及部分间的空隙都变成整体的了
+
+
 In a house, the garden round the house is positive; the
 boundaries between house and garden are again positive.
+
+对于一幢住房, 围绕的花园是明确的;
+而住宅和花园间的边界又是明确的.
+
 
 The thickness of the walls is positive; the wall which
 forms the enclosure between terrace and garden is again
@@ -649,9 +726,28 @@ around them once again; each column is itself made in
 such a way that the places where it joins other entities, are
 once again entities: columns and feet.
 
+墙的厚度是明确的;
+露台和花园形成封闭的墙也是明确;
+一个座位是明确的;
+而内部墙(墙架,壁龛等等)也是明确的.
+在住宅内, 每个房间当然形成了空间;
+但要想使其变成生活场所, 又应该都有窗 --- 结果房间都形成独特的配置效果
+--- 房间之间每个空间又是一个新场所;
+在建造层次上, 能发现相同情形.
+每个房间由柱子标志各角落.
+每个柱子又是明确可见的事物,
+独立的柱子又围有一些场所;
+每个柱子本身又是以其连接的整体以及场所又合成的:
+即柱顶和柱础.
+
+
 > So, the houses get their form, both as a group, and
 separately, as individuals, from the gradual accreion
 of a number of small separate acts.
+
+
+> 于是, 若干住房即是个体, 又作为为一组, 
+> 是从一系列独特的修缮中, 逐渐成长为最终形态
 
 490
 -----------------------------------------
@@ -666,9 +762,22 @@ avenue of trees helps to form a park in the common land;
 the garages not only shield the cars, but also help to form
 gateways into the cluster. 。。。
 
+
+安置长椅形成露台;
+拓展卧屋有助隔开花园旁邻居的视线.
+小路的铺设方式, 限定了入口形态, 也形成了一条件防雨水侵蚀的边界.
+增加的住房帮助形成户外公共场所.
+行道树帮助形成公共场地中的公园.
+车库不仅仅遮蔽汽车, 也形成进入小区的入口.
+
+
+
 Every smnall act helps not only to increase the space, but
 also makes a contribution to the larger patterns which are
 needed there.
+
+每个小修缮都不仅仅增加空间,
+也同时在为所在场景形成更大的模式.
 
 And finally, the common character of the cluster of
 houses grows, without control, simply from the accumula-
@@ -676,17 +785,33 @@ tion of the individual acts- - -because each act of building is .
 conceived as something which not only does good for it-
 self, but also has the obligation to help generate the whole.
 
+最终, 小区住宅的共同特征, 从一系列没有专门控制的修缮积累中聚集形成
+--- 因为每一次修缮行为, 都不仅仅有利自身, 同时也不经意的对整体的生成作出贡献.
+
+
 > In chapter I9 I argued that an or"gamic whole could
 only be created by a diferentiating process.
+
+> 在第19章, 已经阐述了有机整体只能由离散过程生产
+
 
 I explained that only a process of differentiation, because
 it defines the parts within the whole, can generate a natu-
 ral thing; because only this kind of process can shape parts
 individually, according to their position in the whole.
 
+
+解释了为什么只有从整体定义的部分,
+才能通过离散过程形成自然的整体;
+因为只有这种过程, 才能依据各自在整体中的布局合意发展.
+
 > We see now that there is a second, complementary
 process which produces the same results, but works
 piecemeal, instead.
+
+
+> 现在我们再次看到, 零碎的过程,
+> 却又形成相同的互补效果
 
 491
 -----------------------------------------
@@ -697,6 +822,13 @@ patterns, the place also remains whole at every stage- -but
 in this case the geometric volume of the whole keeps chang-
 ing, because there is an actual concrete aggregation of
 matter taking place.
+
+当各种东西在追加, 空间在成长, 
+其形态也在逐渐变化, 并形成更大的模式,
+而空间本身在所有阶段又是完备的
+--- 当然, 这个情形中, 整体形态也在持续变化,
+因为整体就是具体事物的聚积.
+
 
 > T his process, like the simple differenialing process, is
 able to make wholes in which lhe paris are shaped ac-
@@ -711,6 +843,17 @@ finally, the wehole is so smooth and relaxed, that il
 will seem as though it had been there forever. It has
 no roughness aboui it, it simply lies there stretched
 OUt in time.
+
+
+> 这一过程, 象简单离散过程, 能聚积为整体, 因为每个部分都由其整体位置而塑成.
+> 但这一过程又更有力, 因为可以形成更大更复杂的建筑群;
+> 而且这一过程更有效, 首先不会遗留任何错误:
+> 
+> 因为所有缝隙得以弥补.
+> 小问题逐渐修正, 而后, 整体变得非常流畅又放松,
+> 以及看起来原本就一直存在在那儿.
+> 
+> 天衣无缝, 自在长存.
 
 
 492
